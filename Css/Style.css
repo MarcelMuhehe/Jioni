@@ -1,0 +1,56 @@
+body{
+    background-color: #121a37  ;
+    text-align: right;
+    padding-right: 70px;
+    padding-left: 70px;
+}
+a{
+
+    text-decoration: none;
+    color:bisque;
+}
+
+a:hover{
+
+    color: red;
+    /*border-bottom: aqua 1px solid;*/
+border-radius: 50px;
+    border-top: aqua;
+    font-size: 20px;
+}
+#rt{
+ background-color: fuchsia;
+
+
+}
+#ff{
+    color: #30672e
+ ;
+
+}
+
+
+p{
+ color: aqua;
+
+
+}
+.one{
+
+   color: cadetblue;
+    background-color: black;
+    border: lawngreen 1px dashed;
+/*    margin-right: 45px;*/
+/*padding-right: 45px;*/
+    border-radius: 20px;
+    width: 78%;
+border-collapse: collapse;}
+.rr{
+
+
+    color: lawngreen;
+}
+.rt{
+
+color: black;
+}

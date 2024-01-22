@@ -1,0 +1,12 @@
+body{
+background-color: maroon;
+text-align: left;
+    color: black;
+
+}
+
+.two{
+  border: firebrick 2px solid;
+background-color: black;
+color: white;
+}

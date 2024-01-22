@@ -1,0 +1,61 @@
+
+
+
+
+
+
+body{
+
+    background-color: black;
+}
+.we{
+    float: left;
+    width: 50%;
+
+
+}
+.rv{
+   float: right;
+    width: 50%;
+height: 531px;
+
+}
+
+
+
+
+.yu{
+    color: white;
+
+
+}
+.qs {
+
+    border: white 1px solid;
+    border-radius: 20px;
+    background-color: #3f4042;
+    
+}
+.ws {
+    border: white 1px solid;
+    border-radius: 20px;
+background-color: #3f4042;
+}
+.es{
+    border: white 1px solid;
+    border-radius: 20px;
+    background-color: #3f4042;
+}
+.ts{
+    border: white 1px solid;
+    border-radius: 20px;
+    background-color:#3f4042 ;
+}
+
+.yu{
+    font-size: larger;
+}
+
+input{
+    height: 60px;
+}
