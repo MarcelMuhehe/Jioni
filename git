@@ -1,0 +1,5 @@
+git innit
+git add.
+git commit -m "files"
+git remore add . [LINK}
+git push --set-upstream origin master
